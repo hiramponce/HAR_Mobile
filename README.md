@@ -21,13 +21,13 @@ Profile of the subjects (age/gender/height/weight):
 4. 29 / female / 1.68m / 54kg
 
 Technical specifications of the mobile device:
-Model:                            Huawei NXT-L09
-Processor:                        HiSilicon Kirin 950
-Memory:                           32GB internal with 3GB RAM
-Battery:                          Li-Po 400mAh
-Application for data acquisition: Sensorstream IMU+GPS V1.0
-Sampling Frequency:               5Hz
-Storage Media:                    internal memory
+- Model:                            Huawei NXT-L09
+- Processor:                        HiSilicon Kirin 950
+- Memory:                           32GB internal with 3GB RAM
+- Battery:                          Li-Po 400mAh
+- Application for data acquisition: Sensorstream IMU+GPS V1.0
+- Sampling Frequency:               5Hz
+- Storage Media:                    internal memory
 
 Settings of activity performance:
 1. All activities were perfoemd in a plain terrain with dimension 7 x 5 meters-squared
