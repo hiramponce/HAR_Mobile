@@ -35,5 +35,5 @@ Settings of activity performance:
 3. This dataset has missing values
  
 If you want to use this dataset or need more details about it, please refer and cite the following article:
-Ponce, H., González, G., Miralles-Pechuán, L., Martínez-Villaseñor, M.L., Human Activity Recognition on Mobile Devices Using Artificial Hydrocarbon Networks, Mexican International Conference on Artificial Intelligence (MICAI 2017), Lecture Notes in Computer Science, in press.
+1. Ponce, H., González, G., Miralles-Pechuán, L., Martínez-Villaseñor, M.L., Human Activity Recognition on Mobile Devices Using Artificial Hydrocarbon Networks, Mexican International Conference on Artificial Intelligence (MICAI 2017), Lecture Notes in Computer Science, in press.
 
