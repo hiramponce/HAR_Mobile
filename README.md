@@ -14,6 +14,13 @@ Sensors (built-in of the mobile device) involved in the measurements:
 3. Magnetic Field       -- X,Y,Z axes
 4. Linear Accelerometer -- X,Y,Z axes
 
+Columns in a sample:
+- (1) Timestamp
+- (2-4) Accelerometer X, Y and Z
+- (5-7) Gyroscope X, Y and Z
+- (8-10) Magnetic Field X, Y and Z
+- (11-13) Linear Accelerometer X, Y and Z
+
 Profile of the subjects (age/gender/height/weight):
 1. 22 /  male  / 1.85m / 75kg
 2. 28 / female / 1.57m / 49kg
@@ -33,6 +40,13 @@ Settings of activity performance:
 1. All activities were perfoemd in a plain terrain with dimension 7 x 5 meters-squared
 2. The mobile device was located at the left pocket of the subjects' pants in vertical position
 3. This dataset has missing values
+
+Files are named as SXA_Activity.csv:
+- X - represents the number of subject
+- A - represents the number of attempt
+- Activity - refers to the activity performed
+ 
+Example: S32_Jumping.csv refers to the Jumping activity carried out by subject number 3, and this file represents the second attempt
  
 If you want to use this dataset or need more details about it, please refer and cite the following article:
 1. Ponce, H., González, G., Miralles-Pechuán, L., Martínez-Villaseñor, M.L., Human Activity Recognition on Mobile Devices Using Artificial Hydrocarbon Networks, Mexican International Conference on Artificial Intelligence (MICAI 2017), Lecture Notes in Computer Science, in press.
